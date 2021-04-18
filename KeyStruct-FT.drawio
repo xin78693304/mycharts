@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-18T06:14:27.333Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="KLIsiN_q6dqw2eSV1_zU" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-18T06:18:39.837Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="hZ8hJzR0kf1VFzh5fI_k" version="14.6.1" type="github">
   <diagram id="b8vTg0bY8sTFj-NJI612" name="Page-1">
     <mxGraphModel dx="782" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -178,6 +178,12 @@
         </mxCell>
         <mxCell id="N7gucrENt_Ro0j6abz8G-71" value="ELP收单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="790" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N7gucrENt_Ro0j6abz8G-78" value="验证商户等字段有效性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="830" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N7gucrENt_Ro0j6abz8G-79" value="POSPH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="890" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
